@@ -1,0 +1,10 @@
+{
+  "MAT":    { "cpl_muc_tieu": 330000, "ngan_sach_thang": 300000000, "gia_tri_don_tb": 38000000 },
+  "MUI":    { "cpl_muc_tieu": 420000, "ngan_sach_thang": 500000000, "gia_tri_don_tb": 62000000 },
+  "HAMMAT": { "cpl_muc_tieu": 650000, "ngan_sach_thang": 200000000, "gia_tri_don_tb": 95000000 },
+  "VONG1":  { "cpl_muc_tieu": 480000, "ngan_sach_thang": 220000000, "gia_tri_don_tb": 70000000 },
+  "LIPO":   { "cpl_muc_tieu": 520000, "ngan_sach_thang": 180000000, "gia_tri_don_tb": 85000000 },
+  "TREHOA": { "cpl_muc_tieu": 180000, "ngan_sach_thang": 120000000, "gia_tri_don_tb": 15000000 },
+  "DALIEU": { "cpl_muc_tieu": 120000, "ngan_sach_thang": 100000000, "gia_tri_don_tb":  8000000 },
+  "CLINIC": { "cpl_muc_tieu": 110000, "ngan_sach_thang":  80000000, "gia_tri_don_tb":  6000000 }
+}

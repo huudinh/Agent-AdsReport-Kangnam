@@ -1,0 +1,19 @@
+# File Excel do tools/build_ads_alert.py sinh ra — build lại từ dữ liệu nguồn
+out/
+
+# Dữ liệu thật: KHÔNG commit. Chỉ commit file mẫu trong template/
+du-lieu/
+*_THAT.csv
+*_THAT.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# File tạm của Office / hệ điều hành
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
