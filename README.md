@@ -191,6 +191,7 @@ Ad bị từ chối → **sửa cho đúng chính sách**. Không nick clone, kh
 | [tools/build_ads_alert.py](tools/build_ads_alert.py) | **Quét dữ liệu → workbook 6 sheet** | ❌ |
 | [tools/sinh_du_lieu_mau.py](tools/sinh_du_lieu_mau.py) | Sinh dữ liệu mẫu có 6 tình huống cài sẵn | ❌ |
 | [template/](template/) | File CSV mẫu · mục tiêu CPL theo ZONE · mô tả trường dữ liệu | ❌ |
+| [goi/](goi/) | **Bản gộp dự phòng** — 1 file thay cho 9 file rời, dùng khi chạm trần số file của nền tảng | ✅ |
 | [doc/01-cai-dat.md](doc/01-cai-dat.md) | Cài lên Claude / ChatGPT / Gemini + **7 câu thử** | ❌ |
 | [doc/02-cau-lenh.md](doc/02-cau-lenh.md) | Công thức ra lệnh + 12 câu nói lời thường | ❌ |
 | [doc/03-output-mau.md](doc/03-output-mau.md) | **Output chạy thật** trên dữ liệu mẫu | ❌ |
